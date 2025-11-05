@@ -1,3 +1,3 @@
 Aqui estão as mensagens para os amigos do lado de lá.
 
-Agora estou na branch novaFeature ou na branch novoConflito.
+Agora estou na branch novaFeature ou na branch novaConflito.
